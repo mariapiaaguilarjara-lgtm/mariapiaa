@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mariapiaa.com/sitemap.xml
